@@ -11,9 +11,9 @@ interests:
 - Statistics
 - Machine Learning
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: 
 social:
 - icon: envelope
   icon_pack: fas
